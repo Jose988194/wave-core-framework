@@ -27,8 +27,6 @@ Enemy availability is controlled by `UnlockWave`, while `Cost` and `Weight` infl
 
 The spawn layer is independent from the procedural generator, allowing developers to define their own wave tables and reuse the same enemy spawning pipeline.
 
-**Full demo:** _Add unlisted YouTube link here_
-
 ---
 
 ## Design Goals
